@@ -43,5 +43,5 @@ Outside of engineering, I enjoy playing chess, watching Twitch streams, listenin
 ### 📢 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ataberktekin/)  
-- [GitHub](https://github.com/ataberktekin)  
+- [Twitter](https://x.com/ataberk_tekin)
 
