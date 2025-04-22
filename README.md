@@ -36,7 +36,7 @@ I'm a **Computer Engineering student at TOBB University of Economics and Technol
 
 ### 📌 Interests
 
-Outside of engineering, I enjoy playing chess, watching Twitch streams, listening to music, and exploring indie games (currently very interested in *The Binding of Isaac* and *Hollow Knight*. I also enjoy working on personal web projects and learning new frameworks in my free time.
+Outside of engineering, I enjoy playing chess, watching Twitch streams, listening to music, and exploring indie games. I also enjoy working on personal web projects and learning new frameworks in my free time.
 
 ---
 
