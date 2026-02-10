@@ -30,7 +30,8 @@ I'm a **Computer Engineering student at TOBB University of Economics and Technol
 
 ### 📈 GitHub Stats
 
-![exqueuesee's GitHub stats](https://github-readme-stats.vercel.app/api?username=exqueuesee)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
