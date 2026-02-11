@@ -21,10 +21,10 @@ I'm a **Computer Engineering student at TOBB University of Economics and Technol
 
 ### 🧰 Technical Skills
 
-- **Languages**: Java, Python, C/C++, JavaScript, Verilog, MATLAB
-- **Technologies**: Spring Boot, React, Node.js, Git, Docker  
-- **Databases**: MySQL, MongoDB  
-- **Tools**: IntelliJ, VS Code, Postman, GitHub, Vivado, MATLAB Editor
+- **Languages**: Java, Python, C/C++, JavaScript, Verilog, MATLAB, ABAP
+- **Technologies**: Spring Boot, React, Node.js, Git, Docker, SAP ERP
+- **Databases**: MySQL, MongoDB, PostgreSQL, SAP HANA
+- **Tools**: IntelliJ, VS Code, Postman, GitHub, Vivado, MATLAB Editor, SAP GUI
 
 ---
 
@@ -37,7 +37,7 @@ I'm a **Computer Engineering student at TOBB University of Economics and Technol
 
 ### 📌 Interests
 
-Outside of engineering, I enjoy playing chess, watching Twitch streams, listening to music, and exploring indie games. I also enjoy working on personal web projects and learning new frameworks in my free time.
+Outside of engineering, I enjoy playing chess, watching Twitch streams, listening to music, and exploring indie games. I also enjoy working on personal small projects in my free time.
 
 ---
 
