@@ -4,7 +4,7 @@ I'm a **Computer Engineering student at TOBB University of Economics and Technol
 
 ---
 
-### 💼 Experience
+### Experience
 
 - **Software Engineering Intern**  
   **ICterra Information and Communication Technologies**  
@@ -12,14 +12,14 @@ I'm a **Computer Engineering student at TOBB University of Economics and Technol
 
 ---
 
-### 🎓 Education
+### Education
 
 - **B.Sc. in Computer Engineering**  
   TOBB University of Economics and Technology (TOBB ETÜ)
 
 ---
 
-### 🧰 Technical Skills
+### Technical Skills
 
 - **Languages**: Java, Python, C/C++, JavaScript, Verilog, MATLAB, ABAP
 - **Technologies**: Spring Boot, React, Node.js, Git, Docker, SAP ERP
@@ -28,20 +28,20 @@ I'm a **Computer Engineering student at TOBB University of Economics and Technol
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 
 ---
 
-### 📌 Interests
+### Interests
 
 Outside of engineering, I enjoy playing chess, watching Twitch streams, listening to music, and exploring indie games. I also enjoy working on personal small projects in my free time.
 
 ---
 
-### 📢 Let's Connect
+### Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/ataberktekin/)  
 - [Twitter](https://x.com/ataberk_tekin)
