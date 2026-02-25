@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Ataberk Tekin
+## Welcome to my profile, I'm Ataberk
 
 I'm a **Computer Engineering student at TOBB University of Economics and Technology (TOBB ETÜ)**, currently developing my skills in software engineering, full-stack development, and emerging technologies. With a strong academic foundation and hands-on experience in both academic and real-world projects, I am passionate about building efficient, scalable, and user-centered software solutions.
 
@@ -6,16 +6,22 @@ I'm a **Computer Engineering student at TOBB University of Economics and Technol
 
 ### Experience
 
-- **Software Engineering Intern**  
+- **Internship**  
   **ICterra Information and Communication Technologies**  
-  *Contributing to the development and maintenance of enterprise-level software projects with a focus on quality, maintainability, and collaboration.*
+  *January 2025 - April 2025*  
+  *Contributed to the development and maintenance of enterprise-level software projects with a focus on quality, maintainability, and collaboration.*
+  
+- **Internship**  
+  **Nurol Makina**  
+  *January 2026 -*  
+  *Learning modern enterprise management via SAP ERP and debugging using ABAP language on the IT department. Contributing to side projects from other departments using Python to develop in-house software for future use.*
 
 ---
 
 ### Education
 
 - **B.Sc. in Computer Engineering**  
-  TOBB University of Economics and Technology (TOBB ETÜ)
+  TOBB University of Economics and Technology (on-going)
 
 ---
 
