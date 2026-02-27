@@ -7,14 +7,16 @@ I'm a **Computer Engineering student at TOBB University of Economics and Technol
 ### Experience
 
 - **Internship**  
+  **Nurol Makina**  
+  *January 2026 -*  
+  *Learning modern enterprise management via SAP ERP and debugging using ABAP language on the IT department. Contributing to side projects from other departments using Python to develop in-house software for future use.*
+
+- **Internship**  
   **ICterra Information and Communication Technologies**  
   *January 2025 - April 2025*  
   *Contributed to the development and maintenance of enterprise-level software projects with a focus on quality, maintainability, and collaboration.*
   
-- **Internship**  
-  **Nurol Makina**  
-  *January 2026 -*  
-  *Learning modern enterprise management via SAP ERP and debugging using ABAP language on the IT department. Contributing to side projects from other departments using Python to develop in-house software for future use.*
+
 
 ---
 
