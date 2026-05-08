@@ -44,8 +44,8 @@ I'm a **Computer Engineering student at TOBB University of Economics and Technol
 ### GitHub Stats
 
 <div align="center">
-  <img src="./profile/stats.svg" height="195" alt="Stats" />
-  <img src="./profile/top-langs.svg" height="195" alt="Top Languages" />
+  <img src="./profile/stats.svg" alt="Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
 
 ---
