@@ -43,8 +43,10 @@ I'm a **Computer Engineering student at TOBB University of Economics and Technol
 
 ### GitHub Stats
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<div align="center">
+  <img src="./profile/stats.svg" height="195" alt="Stats" />
+  <img src="./profile/top-langs.svg" height="195" alt="Top Languages" />
+</div>
 
 ---
 
