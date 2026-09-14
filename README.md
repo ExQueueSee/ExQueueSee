@@ -6,10 +6,15 @@ I'm a **Computer Engineering student at TOBB University of Economics and Technol
 
 ### Experience
 
+- **Internship**  
+  **Proven Technologies**  
+  *September 2026 - Present*  
+  *Currently contributing to ongoing software development projects while gaining hands-on experience with both frontend and backend systems in a professional development environment.*
+
 - **Part-time Software Developer**  
   **Nurol Makina**  
-  *May 2026 - Present*  
-  *Currently continuing to take part in 'in house' software development and is ready for future project development on demand.*
+  *May 2026 - September 2026*  
+  *Continued the development of in-house software projects initiated during the internship period and contributed to the delivery of production-oriented internal software solutions.*
 
 - **Internship**  
   **Nurol Makina**  
